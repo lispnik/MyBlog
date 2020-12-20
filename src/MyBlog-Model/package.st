@@ -1,1 +1,0 @@
-Package { #name : #'MyBlog-Model' }

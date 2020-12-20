@@ -6,5 +6,5 @@ Class {
 		'email',
 		'body'
 	],
-	#category : #'MyBlog-Model'
+	#category : #'MyBlog-Models'
 }

@@ -6,5 +6,5 @@ Class {
 		'slug',
 		'content'
 	],
-	#category : #'MyBlog-Model'
+	#category : #'MyBlog-Models'
 }
